@@ -1,0 +1,32 @@
+body{
+  background-color:linen;
+}
+.main{
+  width: 800px;
+  margin-top: 4%;
+  text-align: center;
+  color: #F3F2F2;
+  font-family: Comic Sans Ms;
+}
+#content{
+  position: relative;
+  top:-500px;
+}
+h1{
+  margin-top: 15%;
+  font-size: 80px; 
+  position: relative;
+}
+.button{
+  margin-top: 8%;
+  font-size: 35px;
+  font-family: Comic Sans Ms;
+  color: #F3F2F2;
+}
+h3{
+  margin-top: 40%;
+  font-size: 40px; 
+}
+p{
+  font-size:25px;
+}
